@@ -1,0 +1,61 @@
+.container {
+  max-width: 960px !important;}
+
+.bg-head-image{
+    background: repeat 50% 50% / cover;
+    background-image: url("../img/header-bg.jpg");
+  }
+
+  .no-pad {padding: 0px !important;}
+
+.text-orange{ color: #ff9400;}
+
+.text-clay{ color: #f4750c;}
+
+.bg-clay{ background-color: #f4750c;}
+
+.btn-blue{ background-color: #1E88E5 !important;}
+
+.bg-blue{ background-color: #2886e0;}
+
+.bg-blue-light{ background-color: #1fa8dd;}
+
+.bg-blue-dark{ background-color: #1c2953;}
+
+.bg-pink{ background-color:#e01c52;}
+
+.font-size-22{ font-size: 22px; line-height: 28px;}
+.bg-grey{ background-color: #fcfcfc;}
+
+.bg-grey-dark{ background-color:#374659;}
+
+.bg-yellow{ background-color: #fdf05b;}
+.bg-green-light{ background-color: #8dc350;}
+.bg-pink-light{ background-color: #fa77c9;}
+.bg-brown-light{ background-color: #e5d06f;}
+.bg-purple-light{ background-color: #8d6bd7;}
+.bg-violet{ background-color: #342f44; }
+
+.text-black{ color: #000 !important;}
+@media screen (min-width: 600px) {
+.circle{
+    background: #fbce3e;
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    border: 5px solid #fff;
+}
+}
+@media (min-width: 300px) {
+  .circle{
+      background: #fbce3e;
+      width: 300px;
+      height: 300px;
+      border-radius: 50%;
+      border: 5px solid #fff;
+      margin: 0px auto;
+  }
+  h3{ font-size: 18px;
+  line-height: 22px;}
+}
+.text-green-light{ color: #1d8fa0;}
